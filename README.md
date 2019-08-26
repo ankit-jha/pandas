@@ -12,4 +12,6 @@
 
 **Axis 1 will act on all the COLUMNS in each ROW**
 
+Tip: Easiest way to remember is that "1" looks like a column
+
 [Rows And Columns](https://stackoverflow.com/questions/22149584/what-does-axis-in-pandas-mean)
